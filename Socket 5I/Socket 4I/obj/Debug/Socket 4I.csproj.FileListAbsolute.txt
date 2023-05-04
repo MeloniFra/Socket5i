@@ -1,0 +1,46 @@
+c:\users\prof.lucchi\documents\visual studio 2015\Projects\Socket 4I\Socket 4I\bin\Debug\Socket 4I.exe.config
+c:\users\prof.lucchi\documents\visual studio 2015\Projects\Socket 4I\Socket 4I\bin\Debug\Socket 4I.exe
+c:\users\prof.lucchi\documents\visual studio 2015\Projects\Socket 4I\Socket 4I\bin\Debug\Socket 4I.pdb
+c:\users\prof.lucchi\documents\visual studio 2015\Projects\Socket 4I\Socket 4I\obj\Debug\Socket 4I.csprojResolveAssemblyReference.cache
+c:\users\prof.lucchi\documents\visual studio 2015\Projects\Socket 4I\Socket 4I\obj\Debug\MainWindow.g.cs
+c:\users\prof.lucchi\documents\visual studio 2015\Projects\Socket 4I\Socket 4I\obj\Debug\App.g.cs
+c:\users\prof.lucchi\documents\visual studio 2015\Projects\Socket 4I\Socket 4I\obj\Debug\Socket 4I_MarkupCompile.cache
+c:\users\prof.lucchi\documents\visual studio 2015\Projects\Socket 4I\Socket 4I\obj\Debug\Socket 4I_MarkupCompile.lref
+c:\users\prof.lucchi\documents\visual studio 2015\Projects\Socket 4I\Socket 4I\obj\Debug\MainWindow.baml
+c:\users\prof.lucchi\documents\visual studio 2015\Projects\Socket 4I\Socket 4I\obj\Debug\Socket 4I.g.resources
+c:\users\prof.lucchi\documents\visual studio 2015\Projects\Socket 4I\Socket 4I\obj\Debug\Socket_4I.Properties.Resources.resources
+c:\users\prof.lucchi\documents\visual studio 2015\Projects\Socket 4I\Socket 4I\obj\Debug\Socket 4I.csproj.GenerateResource.Cache
+c:\users\prof.lucchi\documents\visual studio 2015\Projects\Socket 4I\Socket 4I\obj\Debug\Socket 4I.exe
+c:\users\prof.lucchi\documents\visual studio 2015\Projects\Socket 4I\Socket 4I\obj\Debug\Socket 4I.pdb
+C:\Users\asus f556uj\Desktop\Backup Chiavetta 31122019\ITT2021\4H\Socket 4I\Socket 4I\bin\Debug\Socket 4I.exe.config
+C:\Users\asus f556uj\Desktop\Backup Chiavetta 31122019\ITT2021\4H\Socket 4I\Socket 4I\bin\Debug\Socket 4I.exe
+C:\Users\asus f556uj\Desktop\Backup Chiavetta 31122019\ITT2021\4H\Socket 4I\Socket 4I\bin\Debug\Socket 4I.pdb
+C:\Users\asus f556uj\Desktop\Backup Chiavetta 31122019\ITT2021\4H\Socket 4I\Socket 4I\obj\Debug\Socket 4I.csproj.AssemblyReference.cache
+C:\Users\asus f556uj\Desktop\Backup Chiavetta 31122019\ITT2021\4H\Socket 4I\Socket 4I\obj\Debug\Socket 4I.csproj.SuggestedBindingRedirects.cache
+C:\Users\asus f556uj\Desktop\Backup Chiavetta 31122019\ITT2021\4H\Socket 4I\Socket 4I\obj\Debug\MainWindow.g.cs
+C:\Users\asus f556uj\Desktop\Backup Chiavetta 31122019\ITT2021\4H\Socket 4I\Socket 4I\obj\Debug\App.g.cs
+C:\Users\asus f556uj\Desktop\Backup Chiavetta 31122019\ITT2021\4H\Socket 4I\Socket 4I\obj\Debug\Socket 4I_MarkupCompile.cache
+C:\Users\asus f556uj\Desktop\Backup Chiavetta 31122019\ITT2021\4H\Socket 4I\Socket 4I\obj\Debug\Socket 4I_MarkupCompile.lref
+C:\Users\asus f556uj\Desktop\Backup Chiavetta 31122019\ITT2021\4H\Socket 4I\Socket 4I\obj\Debug\MainWindow.baml
+C:\Users\asus f556uj\Desktop\Backup Chiavetta 31122019\ITT2021\4H\Socket 4I\Socket 4I\obj\Debug\Socket 4I.g.resources
+C:\Users\asus f556uj\Desktop\Backup Chiavetta 31122019\ITT2021\4H\Socket 4I\Socket 4I\obj\Debug\Socket_4I.Properties.Resources.resources
+C:\Users\asus f556uj\Desktop\Backup Chiavetta 31122019\ITT2021\4H\Socket 4I\Socket 4I\obj\Debug\Socket 4I.csproj.GenerateResource.cache
+C:\Users\asus f556uj\Desktop\Backup Chiavetta 31122019\ITT2021\4H\Socket 4I\Socket 4I\obj\Debug\Socket 4I.csproj.CoreCompileInputs.cache
+C:\Users\asus f556uj\Desktop\Backup Chiavetta 31122019\ITT2021\4H\Socket 4I\Socket 4I\obj\Debug\Socket 4I.exe
+C:\Users\asus f556uj\Desktop\Backup Chiavetta 31122019\ITT2021\4H\Socket 4I\Socket 4I\obj\Debug\Socket 4I.pdb
+C:\Users\melon\Desktop\As 2022-2023 5I\TPS\Socket 5I\Socket 4I\bin\Debug\Socket 4I.exe.config
+C:\Users\melon\Desktop\As 2022-2023 5I\TPS\Socket 5I\Socket 4I\bin\Debug\Socket 4I.exe
+C:\Users\melon\Desktop\As 2022-2023 5I\TPS\Socket 5I\Socket 4I\bin\Debug\Socket 4I.pdb
+C:\Users\melon\Desktop\As 2022-2023 5I\TPS\Socket 5I\Socket 4I\obj\Debug\Socket 4I.csproj.AssemblyReference.cache
+C:\Users\melon\Desktop\As 2022-2023 5I\TPS\Socket 5I\Socket 4I\obj\Debug\Socket 4I.csproj.SuggestedBindingRedirects.cache
+C:\Users\melon\Desktop\As 2022-2023 5I\TPS\Socket 5I\Socket 4I\obj\Debug\MainWindow.g.cs
+C:\Users\melon\Desktop\As 2022-2023 5I\TPS\Socket 5I\Socket 4I\obj\Debug\App.g.cs
+C:\Users\melon\Desktop\As 2022-2023 5I\TPS\Socket 5I\Socket 4I\obj\Debug\Socket 4I_MarkupCompile.cache
+C:\Users\melon\Desktop\As 2022-2023 5I\TPS\Socket 5I\Socket 4I\obj\Debug\Socket 4I_MarkupCompile.lref
+C:\Users\melon\Desktop\As 2022-2023 5I\TPS\Socket 5I\Socket 4I\obj\Debug\MainWindow.baml
+C:\Users\melon\Desktop\As 2022-2023 5I\TPS\Socket 5I\Socket 4I\obj\Debug\Socket 4I.g.resources
+C:\Users\melon\Desktop\As 2022-2023 5I\TPS\Socket 5I\Socket 4I\obj\Debug\Socket_4I.Properties.Resources.resources
+C:\Users\melon\Desktop\As 2022-2023 5I\TPS\Socket 5I\Socket 4I\obj\Debug\Socket 4I.csproj.GenerateResource.cache
+C:\Users\melon\Desktop\As 2022-2023 5I\TPS\Socket 5I\Socket 4I\obj\Debug\Socket 4I.csproj.CoreCompileInputs.cache
+C:\Users\melon\Desktop\As 2022-2023 5I\TPS\Socket 5I\Socket 4I\obj\Debug\Socket 4I.exe
+C:\Users\melon\Desktop\As 2022-2023 5I\TPS\Socket 5I\Socket 4I\obj\Debug\Socket 4I.pdb
