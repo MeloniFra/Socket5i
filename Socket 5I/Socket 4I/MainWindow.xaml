@@ -6,28 +6,31 @@
         xmlns:local="clr-namespace:Socket_4I"
         xmlns:System="clr-namespace:System;assembly=mscorlib" x:Class="Socket_4I.MainWindow"
         mc:Ignorable="d"
-        Title="MainWindow" Height="369" Width="523">
+        Title="Chat" Height="369" Width="523">
     <Grid>
         <ListBox x:Name="lstRubrica" HorizontalAlignment="Left" Height="192" Margin="21,73,0,0" VerticalAlignment="Top" Width="191" SelectionChanged="lstRubrica_SelectionChanged"/>
-        <ListBox x:Name="lstMessaggi" HorizontalAlignment="Left" Height="192" Margin="282,73,0,0" VerticalAlignment="Top" Width="198"/>
+        <ListBox x:Name="lstMessaggi" HorizontalAlignment="Left" Height="192" Margin="286,73,0,0" VerticalAlignment="Top" Width="198"/>
 
-        <Button x:Name="btnInvia" Content="Invia" HorizontalAlignment="Left" Margin="302,304,0,0" VerticalAlignment="Top" Width="74" Click="btnInvia_Click" IsDefault="True"/>
+        <Button x:Name="btnInvia" Content="Invia" HorizontalAlignment="Left" Margin="306,304,0,0" VerticalAlignment="Top" Width="74" Click="btnInvia_Click" IsDefault="True"/>
         <Button x:Name="btnConfermaIpPorta" Content="Conferma" HorizontalAlignment="Left" Margin="326,12,0,0" VerticalAlignment="Top" Width="75" Click="btnConfermaIpPorta_Click"/>
-        <Button x:Name="btnBroadcast" Content="Broadcast" HorizontalAlignment="Left" Margin="381,304,0,0" VerticalAlignment="Top" Width="74" Click="btnBroadcast_Click"/>
-        <Button x:Name="btnSalvaContatto" Content="Salva" HorizontalAlignment="Left" Margin="174,302,0,0" VerticalAlignment="Top" Width="38"/>
+        <Button x:Name="btnBroadcast" Content="Broadcast" HorizontalAlignment="Left" Margin="385,304,0,0" VerticalAlignment="Top" Width="74" Click="btnBroadcast_Click"/>
+        <Button x:Name="btnAggiungiContatto" Content="Aggiungi" HorizontalAlignment="Left" Margin="218,254,0,0" VerticalAlignment="Top" Width="62" Click="btnAggiungiContatto_Click"/>
+        <Button x:Name="btnModificaContatto" Content="Modifica" HorizontalAlignment="Left" Margin="218,279,0,0" VerticalAlignment="Top" Width="62" Click="btnModificaContatto_Click"/>
+        <Button x:Name="btnEliminaContatto" Content="Elimina" HorizontalAlignment="Left" Margin="218,304,0,0" VerticalAlignment="Top" Width="62" Foreground="#FFFF0101" Click="btnEliminaContatto_Click"/>
 
-        <TextBox Name="txtIP" HorizontalAlignment="Left" Margin="68,14,0,0" TextWrapping="Wrap" Text="127.0.0.1" VerticalAlignment="Top" Width="101"/>
-        <TextBox Name="txtPorta" HorizontalAlignment="Left" Margin="255,14,0,0" TextWrapping="Wrap" Text="10000" VerticalAlignment="Top" Width="55"/>
-        <TextBox x:Name="txtMessaggio" HorizontalAlignment="Left" Height="23" Margin="302,270,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="153"/>
-        <TextBox x:Name="txtNome" HorizontalAlignment="Left" Margin="57,304,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="109"/>
+        <TextBox Name="txtIPLocale" HorizontalAlignment="Left" Margin="68,14,0,0" TextWrapping="Wrap" Text="127.0.0.1" VerticalAlignment="Top" Width="101"/>
+        <TextBox Name="txtPortaLocale" HorizontalAlignment="Left" Margin="255,14,0,0" TextWrapping="Wrap" Text="10000" VerticalAlignment="Top" Width="55"/>
+        <TextBox x:Name="txtMessaggio" HorizontalAlignment="Left" Height="23" Margin="306,270,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="153"/>
+        <TextBox x:Name="txtNomeContatto" HorizontalAlignment="Left" Margin="66,305,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="140"/>
+        <TextBox x:Name="txtIPContatto" HorizontalAlignment="Left" Margin="27,275,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="101"/>
+        <TextBox x:Name="txtPortaContatto" HorizontalAlignment="Left" Margin="151,275,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="55"/>
 
         <Label Content="Contatti" HorizontalAlignment="Left" Margin="21,41,0,0" VerticalAlignment="Top" Height="27"/>
-        <Label Name="lblContatto" Content="" HorizontalAlignment="Left" Margin="326,42,0,0" VerticalAlignment="Top"/>
+        <Label Name="lblContatto" Content="Socket non inizializzata..." HorizontalAlignment="Left" Margin="282,42,0,0" VerticalAlignment="Top"/>
         <Label Content="Il tuo IP:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
         <Label Content="La tua Porta:" HorizontalAlignment="Left" Margin="174,10,0,0" VerticalAlignment="Top"/>
-        <Label Content="Nome:" HorizontalAlignment="Left" Margin="12,297,0,0" VerticalAlignment="Top"/>
-        <Label Name="lblInfoNuovoContatto" Content="" HorizontalAlignment="Left" Margin="18,270,0,0" VerticalAlignment="Top"/>
-
+        <Label Content="Nome:" HorizontalAlignment="Left" Margin="21,298,0,0" VerticalAlignment="Top"/>
+        <Label Content=":" HorizontalAlignment="Left" Margin="133,269,0,0" VerticalAlignment="Top"/>
 
     </Grid>
 </Window>
